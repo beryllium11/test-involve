@@ -1,7 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import Main from "./components/main/Main";
 import {Provider} from "react-redux";
 import { store } from './store/store';
 import { BrowserRouter as Router } from 'react-router-dom';
